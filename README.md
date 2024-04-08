@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Paras Bahuguna</h1>
 <h3 align="center">"Data Alchemist: Crafting Insights on GitHub"</h3>
-
-https://iconscout.com/lottie-animation/data-analysis-3915400
+<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/man-doing-business-data-analysis-10104411">
 
 - 💬 Ask me about **SQL,nPython, Data Analysis**
 
