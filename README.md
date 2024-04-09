@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Paras Bahuguna</h1>
 <h3 align="center">"Data Alchemist: Crafting Insights on GitHub"</h3>
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/man-doing-business-data-analysis-10104411">
+<img align="right" alt="Coding" width="400" src="[https://iconscout.com/lottie-animation/man-doing-business-data-analysis-10104411](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fhimanshu-commits&psig=AOvVaw2zz5RXYRvjoBhfE5ZdsCbu&ust=1712678236667000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjF-eH9soUDFQAAAAAdAAAAABAJ)">
 
-- 💬 Ask me about **SQL,nPython, Data Analysis**
+- 💬 Ask me about **SQL, Python, Data Analysis**
 
 - 📫 How to reach me **iamparas0413@gmail.com**
 
